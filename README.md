@@ -23,8 +23,13 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
+Step 1. Monitor and detect phising and blacklisted URL.
 ![image](https://github.com/user-attachments/assets/c33d3a78-f8e5-4615-9d8b-803814d3303e)
-Monitor and detect phising and blacklisted URL.
+
+
+Step 2. Assigned alerts to myself.
+![image](https://github.com/user-attachments/assets/80c44814-b731-4646-852e-877e1fbf5c23)
+
 
 
 
