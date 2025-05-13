@@ -33,6 +33,8 @@ Step 2. Assigned alerts to myself.
 Step 3. Reviewed high alert details (IOC's IP Address and domain)
 ![image](https://github.com/user-attachments/assets/075d355b-1758-4ef8-8ccb-11128a231017)
 
+Step 4. Investigated threat in Splunk.
+
 
 
 
