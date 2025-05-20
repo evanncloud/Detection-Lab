@@ -22,7 +22,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
   
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+
 
 Step 1. Create Resource Group in Azure
 ![image](https://github.com/user-attachments/assets/2cf69984-ce03-4ee3-9ce3-5fc5a2038984)
