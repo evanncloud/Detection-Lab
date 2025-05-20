@@ -63,7 +63,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ![image](https://github.com/user-attachments/assets/3cc4d7ce-60bc-418d-8176-e2304b64b8a8)
 **Step 17. ** Verify logs are forwarded to Microsoft Sentinel
 ![image](https://github.com/user-attachments/assets/da00c5c0-89b8-4db9-92a5-53b4faf94813)
-Lab completed!
+**Lab completed!**
 
 
 
@@ -83,6 +83,4 @@ Lab completed!
 
 
 
-Example below.
 
-*Ref 1: Network Diagram*
