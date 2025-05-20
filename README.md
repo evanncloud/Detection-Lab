@@ -50,6 +50,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ![image](https://github.com/user-attachments/assets/1f72c9a1-444a-463c-906d-ea50e11a8479)
 
 ![image](https://github.com/user-attachments/assets/4b0bc9b5-cd4a-431f-8713-05b737d28914)
+
 **Step 10.** Veiwing RAW Logs on Virtual Machine for failure to logon Event ID: 4625
 ![image](https://github.com/user-attachments/assets/42989954-a35e-4147-b5b0-7daddbaf6c43)
 **Step 11.** Create Log Repository in Azure
