@@ -23,23 +23,9 @@ The Detection Lab project aimed to establish a controlled environment for simula
   
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
-Step 1. Monitor and detect phising and blacklisted URL.
-![image](https://github.com/user-attachments/assets/c33d3a78-f8e5-4615-9d8b-803814d3303e)
+Step 1. Create Resource Group in Azure
+![image](https://github.com/user-attachments/assets/2cf69984-ce03-4ee3-9ce3-5fc5a2038984)
 
-
-Step 2. Assigned alerts to myself.
-![image](https://github.com/user-attachments/assets/80c44814-b731-4646-852e-877e1fbf5c23)
-
-Step 3. Reviewed high alert details (IOC's IP Address and domain)
-![image](https://github.com/user-attachments/assets/075d355b-1758-4ef8-8ccb-11128a231017)
-
-Step 4. Investigated threat in Splunk.
-
-
-
-
-
-Every screenshot should have some text explaining what the screenshot is about.
 
 Example below.
 
