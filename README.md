@@ -27,7 +27,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ![image](https://github.com/user-attachments/assets/2cf69984-ce03-4ee3-9ce3-5fc5a2038984)
 **Step 2. Created Virtual Network**
 ![image](https://github.com/user-attachments/assets/3ccb56c1-84eb-43aa-8cae-a37b25cfedc8)
-**Step 2a.**
+**Step 2a.** Confirmed default settings, Selected 
 ![image](https://github.com/user-attachments/assets/e3d186f8-33eb-4048-9574-15d846b2f9b3)
 **Step 2b.**
 ![image](https://github.com/user-attachments/assets/e5cddb71-1c03-43d2-afea-1a68b750bc43)
