@@ -34,6 +34,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ![image](https://github.com/user-attachments/assets/e5cddb71-1c03-43d2-afea-1a68b750bc43)
 **Step 3.** Create Virtual Machine
 ![image](https://github.com/user-attachments/assets/a5507dd0-4843-46ff-83aa-0797fad9e686)
+
 **Step 4.** Edit Network Security Group
 ![image](https://github.com/user-attachments/assets/d0b517c1-c99f-4851-9255-9786b88ef420)
 **Step 5.** Delete RDP Firewall and allow incoming traffic.
