@@ -58,7 +58,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ![image](https://github.com/user-attachments/assets/b783c0be-705a-43fe-a6ce-a576ea4fe502)
 **Step 13.** This will Create a Rule to Forward Logs From Virtual Machine to SIEM (Microsoft Sentinel)
 ![image](https://github.com/user-attachments/assets/87e3c7c4-aa52-4ece-91e1-92b738e5318e)
-**Step 14.** Selected 
+**Step 14.** Selected Next: Resources
 ![image](https://github.com/user-attachments/assets/852aee64-7403-4a80-a49a-f78820fde688)
 **Step 15.**
 ![image](https://github.com/user-attachments/assets/4a76aa3d-c085-4ee6-abdb-c8541cbe25e8)
