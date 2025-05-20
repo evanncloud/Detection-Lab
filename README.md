@@ -24,7 +24,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ## Steps
 
 
-Step 1. Create Resource Group in Azure
+Step 1. **Create Resource Group in Azure**
 ![image](https://github.com/user-attachments/assets/2cf69984-ce03-4ee3-9ce3-5fc5a2038984)
 Step 2. Create Virtual Network
 ![image](https://github.com/user-attachments/assets/3ccb56c1-84eb-43aa-8cae-a37b25cfedc8)
