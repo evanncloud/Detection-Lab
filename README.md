@@ -30,6 +30,9 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ![image](https://github.com/user-attachments/assets/3ccb56c1-84eb-43aa-8cae-a37b25cfedc8)
 **Step 2a.**
 ![image](https://github.com/user-attachments/assets/e3d186f8-33eb-4048-9574-15d846b2f9b3)
+Step 2b.
+![image](https://github.com/user-attachments/assets/e5cddb71-1c03-43d2-afea-1a68b750bc43)
+
 
 
 
