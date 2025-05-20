@@ -9,10 +9,9 @@ The Detection Lab project aimed to establish a controlled environment for simula
 
 
 - Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Proficiency in analyzing security logs.
+- Enhanced knowledge of setting up honepoy.
+
 
 ### Tools Used
 
