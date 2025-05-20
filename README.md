@@ -62,7 +62,7 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ![image](https://github.com/user-attachments/assets/852aee64-7403-4a80-a49a-f78820fde688)
 **Step 15.** Selected Next: Collect
 ![image](https://github.com/user-attachments/assets/4a76aa3d-c085-4ee6-abdb-c8541cbe25e8)
-**Step 16.**
+**Step 16.** Selected All Security Events Radio Button and Next: Review + Create
 ![image](https://github.com/user-attachments/assets/3cc4d7ce-60bc-418d-8176-e2304b64b8a8)
 **Step 17. ** Verify Logs are Forwarded to Microsoft Sentinel
 ![image](https://github.com/user-attachments/assets/da00c5c0-89b8-4db9-92a5-53b4faf94813)
