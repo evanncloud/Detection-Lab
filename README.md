@@ -17,10 +17,10 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ### Tools Used
 
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
+- Microsoft Azure
+- Security Information and Event Management (SIEM) (Microsoft Sentinel)
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
-
+  
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
 Step 1. Monitor and detect phising and blacklisted URL.
