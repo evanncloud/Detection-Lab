@@ -45,8 +45,10 @@ The Detection Lab project aimed to establish a controlled environment for simula
 **Step 7.** Log in to Virtual Machine
 ![image](https://github.com/user-attachments/assets/482aff48-0fcb-47d3-9552-cab4a9845113)
 **Step 8.** Turn off windows firewall within virtual machine
-![image](https://github.com/user-attachments/assets/1f72c9a1-444a-463c-906d-ea50e11a8479)
+
 **Step 9.** Intentional incorrect credentials on virtual machine
+![image](https://github.com/user-attachments/assets/1f72c9a1-444a-463c-906d-ea50e11a8479)
+
 ![image](https://github.com/user-attachments/assets/4b0bc9b5-cd4a-431f-8713-05b737d28914)
 **Step 10.** Veiwing RAW Logs on Virtual Machine for failure to logon Event ID: 4625
 ![image](https://github.com/user-attachments/assets/42989954-a35e-4147-b5b0-7daddbaf6c43)
