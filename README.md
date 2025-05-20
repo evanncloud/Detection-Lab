@@ -32,6 +32,9 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ![image](https://github.com/user-attachments/assets/e3d186f8-33eb-4048-9574-15d846b2f9b3)
 Step 2b.
 ![image](https://github.com/user-attachments/assets/e5cddb71-1c03-43d2-afea-1a68b750bc43)
+Step 3. Create Virtual Machine
+![image](https://github.com/user-attachments/assets/a5507dd0-4843-46ff-83aa-0797fad9e686)
+
 
 
 
